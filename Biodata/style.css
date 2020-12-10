@@ -1,0 +1,38 @@
+
+body
+{
+margin: 0;
+}
+
+strong
+{
+	
+font-size: 20px;
+color: #fff;
+}
+.container
+{
+	background-color: #000;
+	width: 44.9%;
+	margin-left: 25%;
+}
+.container1
+{
+	background-color: #000;
+	width: 46.5%;
+	margin-left: 25%;
+}
+table tr td input
+{
+	border-top: none;
+	border-left: none;
+	border-right: none;
+	border-bottom-color: #000;
+	border-bottom-style: solid;
+	border-bottom-width: 5px;
+}
+table
+{
+	
+	margin-left: 25%;
+}
